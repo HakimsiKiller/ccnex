@@ -1,4 +1,4 @@
-# projectBA
+# Codersation
 静的なパーティクルコマンドで構成されたmcfunctionファイルを生成することができるジェネレーター
 
 A generator that can generate mcfunction files consisting of static particle commands.
